@@ -9,18 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+title: 개발일기
+subtitle: "하루에 한가지씩만이라도 제대로 하기"
+email: hutswing5613@gmail.com
+name: hutswing
+description: 개발 연습장.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hutswing.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/cover.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -85,15 +84,15 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: hutswing5613
     url: ""
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: hutswing
+    url: https://github.com/hutswing
     desc: Fork me on GitHub
     share: false
 
@@ -202,3 +201,6 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+
+collections:
+  - staff_members
