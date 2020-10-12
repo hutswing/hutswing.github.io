@@ -5,14 +5,12 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile.jpeg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+## 기술스택
+- Java, Spring(전자정부프레임워크), Oracle, MariaDB, Websqure5, javascript
+- APM(Jennifer, Scouter), tomcat, jeus, webtob
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+## 경험
+- 17.05 ~ 19.12 : 국방전산원 군수통합정보체계구축 프로젝트 공통기술팀(AA, 공통기능개발자)
+- 20.01 ~ 현재 : CJ올리브네트웍스 기술진단파트(AA)
