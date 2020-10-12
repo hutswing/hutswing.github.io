@@ -5,147 +5,63 @@
     <description>자기계발, 자기개발.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Oct 2020 22:39:16 +0900</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2020 22:39:16 +0900</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2020 23:27:08 +0900</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2020 23:27:08 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>notion 테스트</title>
-        <description>&lt;h1 id=&quot;시작하기&quot;&gt;시작하기&lt;/h1&gt; &lt;p&gt;👋 Notion에 오신 것을 환영합니다!&lt;/p&gt; &lt;p&gt;기본 사항은 다음과 같습니다.&lt;/p&gt; &lt;ul class=&quot;task-list&quot;&gt; &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;아무 곳이나 클릭하고 입력을 시작합니다.&lt;/li&gt; &lt;li class=&quot;task-list-item&quot;&gt; &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;&lt;code...</description>
-        <pubDate>Fri, 18 Sep 2020 10:17:52 +0900</pubDate>
-        <link>http://localhost:4000/notion/2020/09/18/notion1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/notion/2020/09/18/notion1.html</guid>
+        <title>(LeetCode)787. K 경유지 내 가장 저렴한 항공권</title>
+        <description>&lt;h1 id=&quot;leetcode787-k-경유지-내-가장-저렴한-항공권&quot;&gt;(LeetCode)787. K 경유지 내 가장 저렴한 항공권&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/cheapest-flights-within-k-stops/&quot;&gt;Cheapest Flights Within K Stops - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;다익스트라 알고리즘 변형&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>http://localhost:4000/algorithm/2020/10/11/algo4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/algorithm/2020/10/11/algo4.html</guid>
+        
+        <category>다익스트라알고리즘</category>
         
         
-        <category>notion</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different...</description>
-        <pubDate>Mon, 20 Apr 2015 17:43:59 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/20/welcome-to-jekyll.html</guid>
-        
-        <category>jekyll</category>
-        
-        <category>welcome</category>
-        
-        
-        <category>Jekyll</category>
+        <category>algorithm</category>
         
       </item>
     
       <item>
-        <title>Dummy Post 6</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 17:43:59 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy6.html</guid>
+        <title>(LeetCode)743. 네트워크 딜레이 타임</title>
+        <description>&lt;h1 id=&quot;leetcode743-네트워크-딜레이-타임&quot;&gt;(LeetCode)743. 네트워크 딜레이 타임&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/network-delay-time/&quot;&gt;Network Delay Time - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;다익스트라 알고리즘 적용&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;heapq&lt;/span&gt;...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>http://localhost:4000/algorithm/2020/10/11/algo3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/algorithm/2020/10/11/algo3.html</guid>
         
-        <category>lorem</category>
-        
-        <category>ipsum</category>
+        <category>다익스트라알고리즘</category>
         
         
-        <category>Dummy</category>
+        <category>algorithm</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/2015/04/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/2015/04/19/welcome-to-jekyll.html</guid>
+        <title>(LeetCode)200. 섬의 개수</title>
+        <description>&lt;h1 id=&quot;leetcode200-섬의-개수&quot;&gt;(LeetCode)200. 섬의 개수&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/number-of-islands/&quot;&gt;Number of Islands - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;dfs를 활용&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>http://localhost:4000/algorithm/2020/10/11/algo2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/algorithm/2020/10/11/algo2.html</guid>
         
-        <category>jekyll</category>
-        
-        <category>welcome</category>
+        <category>DFS</category>
         
         
-        <category>Jekyll</category>
+        <category>algorithm</category>
         
       </item>
     
       <item>
-        <title>Dummy Post 6</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy6.html</guid>
+        <title>(LeetCode)78.부분 집합</title>
+        <description>&lt;h1 id=&quot;leetcode78부분-집합&quot;&gt;(LeetCode)78.부분 집합&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/subsets/&quot;&gt;Subsets - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;트리의 DFS결과 출력&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>http://localhost:4000/algorithm/2020/10/11/algo1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/algorithm/2020/10/11/algo1.html</guid>
         
-        <category>lorem</category>
-        
-        <category>ipsum</category>
+        <category>DFS</category>
         
         
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 5</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy5.html</guid>
-        
-        <category>lorem</category>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 4</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy4.html</guid>
-        
-        <category>ipsum</category>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 3</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy3.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 2</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy2.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna...</description>
-        <pubDate>Sun, 19 Apr 2015 04:25:52 +0900</pubDate>
-        <link>http://localhost:4000/dummy/2015/04/19/dummy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/dummy/2015/04/19/dummy.html</guid>
-        
-        
-        <category>Dummy</category>
+        <category>algorithm</category>
         
       </item>
     
