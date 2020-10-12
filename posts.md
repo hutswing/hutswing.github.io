@@ -4,6 +4,16 @@ title: "Posts"
 permalink: /posts/
 main_nav: true
 ---
+<div id="btn_group">
+  {% for category in site.categories %}
+    {% capture cat %}{{ category | first }}{% endcapture %}
+    <button type="button" onclick="window.location.href='#{{cat}}' ">
+      {{ cat | capitalize }} ({{site.categories[cat].size}})
+    </button>
+  {% endfor %}
+</div>
+
+<hr>
 
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
