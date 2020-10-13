@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>개발일기</title>
+    <description>자기계발, 자기개발.</description>
+    <link>https://hutswing.github.io/</link>
+    <atom:link href="https://hutswing.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Oct 2020 23:57:06 +0900</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2020 23:57:06 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Tomcat기동 시 JVM java security urandom 이슈</title>
+        <description>&lt;h1 id=&quot;tomcat기동-시-jvm-java-security-urandom-이슈&quot;&gt;Tomcat기동 시 JVM java security urandom 이슈&lt;/h1&gt; &lt;h2 id=&quot;현상&quot;&gt;현상&lt;/h2&gt; &lt;p&gt;Tomcat기동 시 1시간 이상 지연이 발생함(Windows 2014/ Tomcat 8)&lt;/p&gt; &lt;h2 id=&quot;원인&quot;&gt;원인&lt;/h2&gt; &lt;p&gt;Linux서버는 Thread Pool 할당, Connection Pool 사용등에 난수값을 사용하는데,...</description>
+        <pubDate>Mon, 12 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/tomcat/2020/10/12/tomcat1.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/tomcat/2020/10/12/tomcat1.html</guid>
+        
+        <category>tomcat기동지연</category>
+        
+        
+        <category>tomcat</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)787. K 경유지 내 가장 저렴한 항공권</title>
+        <description>&lt;h1 id=&quot;leetcode787-k-경유지-내-가장-저렴한-항공권&quot;&gt;(LeetCode)787. K 경유지 내 가장 저렴한 항공권&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/cheapest-flights-within-k-stops/&quot;&gt;Cheapest Flights Within K Stops - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;다익스트라 알고리즘 변형&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/11/algo4.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/11/algo4.html</guid>
+        
+        <category>다익스트라알고리즘</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)743. 네트워크 딜레이 타임</title>
+        <description>&lt;h1 id=&quot;leetcode743-네트워크-딜레이-타임&quot;&gt;(LeetCode)743. 네트워크 딜레이 타임&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/network-delay-time/&quot;&gt;Network Delay Time - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;다익스트라 알고리즘 적용&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;heapq&lt;/span&gt;...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/11/algo3.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/11/algo3.html</guid>
+        
+        <category>다익스트라알고리즘</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)200. 섬의 개수</title>
+        <description>&lt;h1 id=&quot;leetcode200-섬의-개수&quot;&gt;(LeetCode)200. 섬의 개수&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/number-of-islands/&quot;&gt;Number of Islands - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;dfs를 활용&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/11/algo2.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/11/algo2.html</guid>
+        
+        <category>DFS</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)78.부분 집합</title>
+        <description>&lt;h1 id=&quot;leetcode78부분-집합&quot;&gt;(LeetCode)78.부분 집합&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/subsets/&quot;&gt;Subsets - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;트리의 DFS결과 출력&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Solution&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span...</description>
+        <pubDate>Sun, 11 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/11/algo1.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/11/algo1.html</guid>
+        
+        <category>DFS</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)937. 로그 파일 재정렬</title>
+        <description>&lt;h1 id=&quot;leetcode937-로그-파일-재정렬&quot;&gt;(LeetCode)937. 로그 파일 재정렬&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/reorder-data-in-log-files/&quot;&gt;Reorder Data in Log Files - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;람다표현식을 이용한 정렬과 + 연산자를 사용&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div...</description>
+        <pubDate>Sat, 10 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/10/algo5.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/10/algo5.html</guid>
+        
+        <category>람다식</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)819. 가장 흔한 단어</title>
+        <description>&lt;h1 id=&quot;leetcode819-가장-흔한-단어&quot;&gt;(LeetCode)819. 가장 흔한 단어&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/most-common-word/&quot;&gt;Most Common Word - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;리스트 컴프리헨션과 딕셔너리의 Count객체를 활용한 풀이&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span...</description>
+        <pubDate>Sat, 10 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/10/algo4.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/10/algo4.html</guid>
+        
+        <category>리스트컴프리헨션</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)125. 유효한 팰린드롬</title>
+        <description>&lt;h1 id=&quot;leetcode125-유효한-팰린드롬&quot;&gt;(LeetCode)125. 유효한 팰린드롬&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/valid-palindrome/&quot;&gt;Valid Palindrome - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;정규식으로 불필요한 문자를 필터링한 후 슬라이싱으로 문자열을 뒤집어 기존 문자열과 비교&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;풀이&quot;&gt;풀이&lt;/h2&gt; &lt;div class=&quot;language-python...</description>
+        <pubDate>Sat, 10 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/10/algo3.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/10/algo3.html</guid>
+        
+        <category>문자열슬라이싱</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)49. 그룹 애너그램</title>
+        <description>&lt;h1 id=&quot;leetcode49-그룹-애너그램&quot;&gt;(LeetCode)49. 그룹 애너그램&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/group-anagrams/&quot;&gt;Group Anagrams - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;정렬하여 딕셔너리에 추가한후에 일괄로 출력함&lt;/li&gt; &lt;li&gt;정렬된 문자열을 key로, 원본 문자열을 value로 저장&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div...</description>
+        <pubDate>Sat, 10 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/10/algo2.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/10/algo2.html</guid>
+        
+        <category>딕셔너리</category>
+        
+        <category>key-value</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+      <item>
+        <title>(LeetCode)5. 가장 긴 팰린드롬 부분 문자열</title>
+        <description>&lt;h1 id=&quot;leetcode5-가장-긴-팰린드롬-부분-문자열&quot;&gt;(LeetCode)5. 가장 긴 팰린드롬 부분 문자열&lt;/h1&gt; &lt;h2 id=&quot;문제&quot;&gt;문제&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/longest-palindromic-substring/&quot;&gt;Longest Palindromic Substring - LeetCode&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;아이디어&quot;&gt;아이디어&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;투 포인터가 중앙을 중심으로 확장하는 형태로 풀이&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;코드&quot;&gt;코드&lt;/h2&gt; &lt;div class=&quot;language-python...</description>
+        <pubDate>Sat, 10 Oct 2020 23:25:52 +0900</pubDate>
+        <link>https://hutswing.github.io/algorithm/2020/10/10/algo1.html</link>
+        <guid isPermaLink="true">https://hutswing.github.io/algorithm/2020/10/10/algo1.html</guid>
+        
+        <category>투포인터</category>
+        
+        
+        <category>algorithm</category>
+        
+      </item>
+    
+  </channel>
+</rss>
